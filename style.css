@@ -239,15 +239,11 @@ body{
     color: #b1adad;
    }
 @media (max-width:780px) {
-    .card-sec8 .icons-social{
-    margin-left: 40vh;
-    }
-    
-    .cont-home{
-        text-align: center;
-    }
-
-    
+    .card-icon{
+        display: flex;
+        align-items: center;  
+        padding-left:  18px;
+    }   
 }
   
 
